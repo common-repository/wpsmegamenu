@@ -1,0 +1,97 @@
+//This is css in plugin 
+
+.wps_megamenu ul.sub-menu {
+    width: 100% !important;
+    right: 0;
+    box-shadow: none;
+    background: transparent;
+    padding: 0;
+}
+
+.wps_megamenu ul.sub-menu a {
+    padding: 0;
+}
+
+.wps_megamenu ul.sub-menu {
+    width: 100% !important;
+    right: 0;
+    box-shadow: none;
+    background: transparent;
+    padding: 0;
+    left: 0;
+    position: absolute !important;
+    left: 0 !important;
+    opacity: 0;
+    transition: .5s ease!important;
+    visibility: hidden;
+}
+
+.wps_megamenu {
+    position: inherit !important;
+}
+
+.wps_megamenu ul.sub-menu > li {
+    display: block !important;
+}
+
+.menu > li.wps_megamenu:hover ul.sub-menu {
+    opacity: 1;
+    visibility: visible;
+    transition: .5s!important;
+}
+
+.wps_megamenu ul.sub-menu a {
+    padding: 0;
+}
+
+
+
+
+.wps_megamenu ul.submenu {
+    width: 100% !important;
+    right: 0;
+    box-shadow: none;
+    background: transparent;
+    padding: 0;
+}
+
+.wps_megamenu ul.submenu a {
+    padding: 0;
+}
+
+.wps_megamenu ul.submenu {
+    width: 100% !important;
+    right: 0;
+    box-shadow: none;
+    background: transparent;
+    padding: 0;
+    left: 0;
+    position: absolute !important;
+    left: 0 !important;
+    opacity: 0;
+    transition: .5s ease!important;
+    visibility: hidden;
+}
+
+.wps_megamenu {
+    position: inherit !important;
+}
+
+.wps_megamenu ul.submenu > li {
+    display: block !important;
+}
+
+.menu > li.wps_megamenu:hover ul.submenu {
+    opacity: 1;
+    visibility: visible;
+    transition: .5s!important;
+}
+
+.wps_megamenu ul.submenu a {
+    padding: 0;
+}
+
+.wps_megamenu ul.sub-menu {
+
+    margin-top: -15px;
+}

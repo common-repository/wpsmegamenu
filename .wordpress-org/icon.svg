@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96">
+	<title>New Project</title>
+	<defs>
+		<image  width="96" height="96" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgAQMAAADYVuV7AAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAABZJREFUeJxjZEACjKOcUc4oZ5QzfDgA8VAAYfx+jQEAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 14px;fill: #000000;font-weight: 700;font-family: "DejaVuSans-Bold", "DejaVu Sans" } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<text id="WPS MEGAMENU" style="transform: matrix(.979,0,0,.979,50.113,43.433)" >
+		<tspan x="-17.9" y="0" class="t0">W</tspan><tspan  y="0" class="t0">P</tspan><tspan  y="0" class="t0">S</tspan><tspan  y="0" class="t0">
+</tspan>
+		<tspan x="-46.2" y="16.8" class="t0">M</tspan><tspan  y="16.8" class="t0">E</tspan><tspan  y="16.8" class="t0">G</tspan><tspan  y="16.8" class="t0">A</tspan><tspan  y="16.8" class="t0">M</tspan><tspan  y="16.8" class="t0">E</tspan><tspan  y="16.8" class="t0">N</tspan><tspan  y="16.8" class="t0">U</tspan><tspan  y="16.8" class="t0">
+</tspan>
+	</text>
+</svg>
